@@ -1,0 +1,6 @@
+interface:
+  display_name: "Token Saver"
+  short_description: "强模型规划验收，轻模型执行，难题网页会诊优先 Pro，备选 GPT-6 High"
+  default_prompt: "使用 $token-saver 完成以下任务：Codex 强模型规划和最终验收，轻模型执行，难题通过内置浏览器咨询 Pro，无 Pro 时用 GPT-6 High。"
+policy:
+  allow_implicit_invocation: true
